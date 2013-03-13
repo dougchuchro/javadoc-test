@@ -11,6 +11,7 @@ bin/
 
 # JavaDoc Directory #
 doc/
+doc-master/
 
 # Eclipse Files #
 .classpath
